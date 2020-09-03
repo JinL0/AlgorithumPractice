@@ -2,6 +2,8 @@
 Just Practice Algorithm daily.
 
  
-#Algorithum
-##DFS
+# Algorithum
+
+## DFS
+
 [CODE Template](https://choosealicense.com/licenses/mit/)
