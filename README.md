@@ -6,4 +6,4 @@ Just Practice Algorithm daily.
 
 ## DFS
 
-[CODE Template](https://choosealicense.com/licenses/mit/)
+[CODE Template](https://github.com/JinL0/AlgorithumPractice/blob/master/DFS/Template.md)
